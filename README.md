@@ -7,6 +7,8 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanadonhundev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,nextjs,py,java,php,mysql,firebase,express,mongodb,bootstrap,materialui,ps,ai,figma,blender,unity,docker)](https://skillicons.dev)
+
 
 
 <img src="https://raw.githubusercontent.com/tanadonhundev/tanadonhundev/output/snake.svg" alt="Snake animation" />
